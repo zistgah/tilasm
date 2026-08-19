@@ -1,0 +1,43 @@
+{
+  "upload_type": "software",
+  "title": "tilasm: an immersive-output cycler for composing AR, XR and VR pieces as navigable stations",
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+  "description": "<p>tilasm composes immersive work as a set of stations: places a visitor stands, looks and acts. A station carries an anchor, what is seen and heard there, what the visitor can do and what answers them, the exits by which they may leave, and a comfort note stating locomotion, hazards, mitigations, floor space and what a visitor who cannot stand, cannot use both hands or cannot hear does instead.</p><p>Two checks are structural rather than stylistic. A piece in which no station leads anywhere is refused, on the grounds that an immersive work a visitor cannot move through is a picture. A station whose exit names a station that does not exist is refused as an incomplete graph. The comfort note is mandatory: a piece may legitimately require nothing, but it must say so.</p><p>Assets are brought in through the artefact inbox rather than assumed: the operator generates a model or a panorama in whichever tool they use, saves it, and selects it. Filesystem visibility is not treated as provenance.</p>",
+  "keywords": [
+    "immersive media",
+    "augmented reality",
+    "virtual reality",
+    "spatial computing",
+    "accessibility",
+    "research software",
+    "scholarly publishing"
+  ],
+  "license": "apache-2.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22005507",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.21948734",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.21397274",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    }
+  ]
+}
