@@ -1,0 +1,10 @@
+{
+  "protocol": "candor/v1",
+  "utc": "20260819T091735Z",
+  "operation": "seed_cycler.sh tilasm 1.0.0",
+  "repo": "zistgah/tilasm",
+  "model": "tilasm",
+  "intent": "record DOI 10.5281/zenodo.22010084 and reseal",
+  "selftest": "passed",
+  "agent": "Claude Opus 4.8"
+}

@@ -1,0 +1,18 @@
+{
+  "tool": "misty-doi",
+  "state": "published",
+  "doi": "10.5281/zenodo.22010084",
+  "concept_doi": "10.5281/zenodo.22010083",
+  "record_url": "https://zenodo.org/record/22010084",
+  "deposition_id": 22010084,
+  "bucket": "https://zenodo.org/api/files/c7a8e0c3-9bd6-4721-a1db-242f3a5c4099",
+  "sandbox": false,
+  "files": [
+    {
+      "name": "tilasm-20260819T091735Z.tar.gz",
+      "size": 55907,
+      "sha256": "2c260bde9ea8b3c2e4c8a2c379a78a26c12f320ce1eb7a60c291114560425364"
+    }
+  ],
+  "generated_at": "2026-08-19T09:19:00+00:00"
+}
